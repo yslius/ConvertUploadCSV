@@ -1,0 +1,10 @@
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\bin\Debug\ConvertUploadCSV.exe.config
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\bin\Debug\ConvertUploadCSV.exe
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\bin\Debug\ConvertUploadCSV.pdb
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.csprojAssemblyReference.cache
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.Form1.resources
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.Properties.Resources.resources
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.csproj.GenerateResource.cache
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.exe
+C:\Users\owner\source\repos\ConvertUploadCSV\ConvertUploadCSV\obj\Debug\ConvertUploadCSV.pdb
